@@ -1,0 +1,6 @@
+01-01-2024
+check credentials' parameters decrypted. 
+
+-------------------------------------------------
+02-1-2024
+authenticate user data decryption added.
